@@ -1,0 +1,10 @@
+{
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": true,
+  "javascript.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": true,
+  "javascript.format.insertSpaceBeforeAndAfterBinaryOperators": true,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": true,
+  "javascript.format.insertSpaceAfterCommaDelimiter": true,
+  "javascript.format.enable": false
+}
